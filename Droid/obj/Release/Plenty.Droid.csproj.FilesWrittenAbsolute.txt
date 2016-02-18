@@ -1,0 +1,171 @@
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/Plenty.Droid.Resources.drawable.offers.asparagus.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/bin/Release/Plenty.Droid.dll.mdb
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/bin/Release/Plenty.Droid.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/bin/Release/com.ibm.plenty.apk
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/android/bin/com.ibm.plenty.apk
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/icon.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable-hdpi/icon.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable-xhdpi/icon.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable-xxhdpi/icon.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/recommendations.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/events.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/menu.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/nuts.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/potatoes.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/usermenu.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/nuts.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/baked-potato.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/bbq-ribs.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/beer-bottle.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/beluga-lentils.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/cat-food.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/coffeebeans.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/mashed-potatoes.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/pasta.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/rotiss-chix.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/salmon.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/snacknuts.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/steak.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/tofu.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/wine.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/R.cs.flag
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/bin/Release/com.ibm.plenty-Signed.apk
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/uploadflags.txt
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/Plenty.Droid.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/Plenty.Droid.dll.mdb
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/bin/Release/Xamarin.Android.Support.v4.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/bin/Release/Xamarin.Forms.Platform.Android.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/bin/Release/FormsViewGroup.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/bin/Release/Xamarin.Forms.Core.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/bin/Release/Worklight.Android.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/bin/Release/Worklight.Xamarin.Android.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/bin/Release/Newtonsoft.Json.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/bin/Release/Plenty.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/bin/Release/Plenty.dll.mdb
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/asparagus.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/asparagus.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/coffeebeans.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/pasta.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/salmon.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/snacknuts.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/steak.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/tofu.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/wine.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/bakedpotato.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/bbqribs.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/beerbottle.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/belugalentils.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/catfood.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/mashedpotatoes.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/rotisschix.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/bakedpotato.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/bbqribs.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/beerbottle.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/belugalentils.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/catfood.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/mashedpotatoes.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/offers/rotisschix.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/events/cheesetasting.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/events/coffeeroasting.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/events/fillyourgrowler.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/events/grillingsecrets.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/events/learntocook.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/events/meetorganicgrower.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/events/vegcooking.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/events/winetasting.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/cheesetasting.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/coffeeroasting.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/fillyourgrowler.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/grillingsecrets.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/learntocook.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/meetorganicgrower.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/vegcooking.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Droid/obj/Release/res/drawable/winetasting.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/bin/Release/Plenty.Droid.dll.mdb
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/bin/Release/Plenty.Droid.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/bin/Release/com.ibm.plenty.apk
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/android/bin/com.ibm.plenty.apk
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/icon.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable-hdpi/icon.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable-xhdpi/icon.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable-xxhdpi/icon.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/recommendations.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/events.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/menu.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/nuts.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/potatoes.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/usermenu.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/nuts.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/baked-potato.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/bbq-ribs.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/beer-bottle.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/beluga-lentils.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/cat-food.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/coffeebeans.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/mashed-potatoes.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/pasta.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/rotiss-chix.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/salmon.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/snacknuts.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/steak.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/tofu.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/wine.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/asparagus.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/asparagus.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/coffeebeans.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/pasta.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/salmon.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/snacknuts.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/steak.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/tofu.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/wine.png
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/bakedpotato.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/bbqribs.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/beerbottle.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/belugalentils.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/catfood.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/mashedpotatoes.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/rotisschix.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/bakedpotato.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/bbqribs.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/beerbottle.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/belugalentils.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/catfood.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/mashedpotatoes.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/offers/rotisschix.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/events/cheesetasting.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/events/coffeeroasting.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/events/fillyourgrowler.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/events/grillingsecrets.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/events/learntocook.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/events/meetorganicgrower.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/events/vegcooking.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/events/winetasting.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/cheesetasting.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/coffeeroasting.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/fillyourgrowler.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/grillingsecrets.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/learntocook.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/meetorganicgrower.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/vegcooking.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/res/drawable/winetasting.jpg
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/R.cs.flag
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/bin/Release/com.ibm.plenty-Signed.apk
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/uploadflags.txt
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/Plenty.Droid.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/obj/Release/Plenty.Droid.dll.mdb
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/bin/Release/Xamarin.Android.Support.v4.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/bin/Release/Xamarin.Forms.Platform.Android.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/bin/Release/FormsViewGroup.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/bin/Release/Xamarin.Forms.Core.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/bin/Release/Worklight.Android.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/bin/Release/Worklight.Xamarin.Android.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/bin/Release/Newtonsoft.Json.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/bin/Release/Plenty.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Droid/bin/Release/Plenty.dll.mdb

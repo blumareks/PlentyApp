@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <ProjectGuid>{F6958145-5025-4897-9C88-312884C24EC1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Plenty.Droid</RootNamespace>
+    <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
+    <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
+    <AndroidResgenClass>Resource</AndroidResgenClass>
+    <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
+    <AndroidApplication>True</AndroidApplication>
+    <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
+    <AssemblyName>Plenty.Droid</AssemblyName>
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <TargetFrameworkVersion>v6.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidLinkMode>None</AndroidLinkMode>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
+    <ConsolePause>false</ConsolePause>
+    <AndroidSupportedAbis>armeabi;armeabi-v7a;x86;arm64-v8a;x86_64</AndroidSupportedAbis>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="Mono.Android" />
+    <Reference Include="Xamarin.Android.Support.v4">
+      <HintPath>..\packages\Xamarin.Android.Support.v4.21.0.3.0\lib\MonoAndroid10\Xamarin.Android.Support.v4.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Platform.Android">
+      <HintPath>..\packages\Xamarin.Forms.1.3.5.6335\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll</HintPath>
+    </Reference>
+    <Reference Include="FormsViewGroup">
+      <HintPath>..\packages\Xamarin.Forms.1.3.5.6335\lib\MonoAndroid10\FormsViewGroup.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Core">
+      <HintPath>..\packages\Xamarin.Forms.1.3.5.6335\lib\MonoAndroid10\Xamarin.Forms.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Xaml">
+      <HintPath>..\packages\Xamarin.Forms.1.3.5.6335\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll</HintPath>
+    </Reference>
+    <Reference Include="Worklight.Android">
+      <HintPath>..\Components\ibm-worklight-7.1.0.1\lib\android\Worklight.Android.dll</HintPath>
+    </Reference>
+    <Reference Include="Worklight.Xamarin.Android">
+      <HintPath>..\Components\ibm-worklight-7.1.0.1\lib\android\Worklight.Xamarin.Android.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Json" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.7.0.1\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Plenty\Plenty.csproj">
+      <Project>{1806F90E-8960-440A-BC57-E9FC89DBBA68}</Project>
+      <Name>Plenty</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MainActivity.cs" />
+    <Compile Include="Resources\Resource.designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CustomChallengeHandler.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Properties\AndroidManifest.xml" />
+    <None Include="Assets\AboutAssets.txt" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\layout\" />
+    <Folder Include="Resources\values\" />
+    <Folder Include="Resources\drawable\offers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\icon.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\icon.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\icon.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\icon.png" />
+    <AndroidResource Include="Resources\drawable\Recommendations.png" />
+    <AndroidResource Include="Resources\drawable\Events.png" />
+    <AndroidResource Include="Resources\drawable\Offers.png" />
+    <AndroidResource Include="Resources\drawable\Menu.png" />
+    <AndroidResource Include="Resources\drawable\NUTS.jpg" />
+    <AndroidResource Include="Resources\drawable\Potatoes.jpg" />
+    <AndroidResource Include="Resources\drawable\UserMenu.png" />
+    <AndroidResource Include="Resources\drawable\offers\NUTS.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\baked-potato.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\bbq-ribs.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\beer-bottle.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\beluga-lentils.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\cat-food.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\coffeebeans.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\mashed-potatoes.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\pasta.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\rotiss-chix.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\salmon.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\snacknuts.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\steak.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\tofu.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\wine.png" />
+    <AndroidResource Include="Resources\drawable\offers\asparagus.jpg" />
+    <AndroidResource Include="Resources\drawable\asparagus.jpg" />
+    <AndroidResource Include="Resources\drawable\coffeebeans.jpg" />
+    <AndroidResource Include="Resources\drawable\pasta.jpg" />
+    <AndroidResource Include="Resources\drawable\salmon.jpg" />
+    <AndroidResource Include="Resources\drawable\snacknuts.jpg" />
+    <AndroidResource Include="Resources\drawable\steak.jpg" />
+    <AndroidResource Include="Resources\drawable\tofu.jpg" />
+    <AndroidResource Include="Resources\drawable\wine.png" />
+    <AndroidResource Include="Resources\drawable\bakedpotato.jpg" />
+    <AndroidResource Include="Resources\drawable\bbqribs.jpg" />
+    <AndroidResource Include="Resources\drawable\beerbottle.jpg" />
+    <AndroidResource Include="Resources\drawable\belugalentils.jpg" />
+    <AndroidResource Include="Resources\drawable\catfood.jpg" />
+    <AndroidResource Include="Resources\drawable\mashedpotatoes.jpg" />
+    <AndroidResource Include="Resources\drawable\rotisschix.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\bakedpotato.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\bbqribs.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\beerbottle.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\belugalentils.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\catfood.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\mashedpotatoes.jpg" />
+    <AndroidResource Include="Resources\drawable\offers\rotisschix.jpg" />
+    <AndroidResource Include="Resources\drawable\events\cheesetasting.jpg" />
+    <AndroidResource Include="Resources\drawable\events\coffeeroasting.jpg" />
+    <AndroidResource Include="Resources\drawable\events\fillyourgrowler.jpg" />
+    <AndroidResource Include="Resources\drawable\events\grillingsecrets.jpg" />
+    <AndroidResource Include="Resources\drawable\events\learntocook.jpg" />
+    <AndroidResource Include="Resources\drawable\events\meetorganicgrower.jpg" />
+    <AndroidResource Include="Resources\drawable\events\vegcooking.jpg" />
+    <AndroidResource Include="Resources\drawable\events\winetasting.jpg" />
+    <AndroidResource Include="Resources\drawable\cheesetasting.jpg" />
+    <AndroidResource Include="Resources\drawable\coffeeroasting.jpg" />
+    <AndroidResource Include="Resources\drawable\fillyourgrowler.jpg" />
+    <AndroidResource Include="Resources\drawable\grillingsecrets.jpg" />
+    <AndroidResource Include="Resources\drawable\learntocook.jpg" />
+    <AndroidResource Include="Resources\drawable\meetorganicgrower.jpg" />
+    <AndroidResource Include="Resources\drawable\vegcooking.jpg" />
+    <AndroidResource Include="Resources\drawable\winetasting.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+  <Import Project="..\packages\Xamarin.Forms.1.3.5.6335\build\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets" Condition="Exists('..\packages\Xamarin.Forms.1.3.5.6335\build\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets')" />
+  <ItemGroup>
+    <XamarinComponentReference Include="ibm-worklight">
+      <Version>7.1.0.1</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+    <XamarinComponentReference Include="json.net">
+      <Version>7.0.1</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\wlclient.properties" />
+  </ItemGroup>
+</Project>

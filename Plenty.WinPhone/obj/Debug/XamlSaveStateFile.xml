@@ -1,0 +1,9 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="\\mac\home\projects\plenty\packages\xamarin.forms.1.5.1.6471\lib\wpa81\xamarin.forms.core.dll" HashGuid="7ea666df-3127-4563-62ed-7948a5846c77" />
+    <ReferenceAssembly PathName="\\mac\home\projects\plenty\packages\xamarin.forms.1.5.1.6471\lib\wpa81\xamarin.forms.platform.dll" HashGuid="d9389e38-8a39-bed5-406b-7a34fe4704ea" />
+    <ReferenceAssembly PathName="\\mac\home\projects\plenty\packages\xamarin.forms.1.5.1.6471\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="b232890e-71b0-4667-a3cd-fd0eefae6935" />
+    <ReferenceAssembly PathName="\\mac\home\projects\plenty\packages\xamarin.forms.1.5.1.6471\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="f4791380-4614-eb08-592a-efac18501fc3" />
+    <ReferenceAssembly PathName="\\mac\home\projects\plenty\packages\xamarin.forms.1.5.1.6471\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="2f9afcd9-8aea-0d3a-3c45-398838a26f91" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

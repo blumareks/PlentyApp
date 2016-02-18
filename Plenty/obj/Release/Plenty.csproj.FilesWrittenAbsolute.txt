@@ -1,0 +1,14 @@
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Plenty/obj/Release/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Plenty/bin/Release/Plenty.dll.mdb
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Plenty/bin/Release/Plenty.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Plenty/obj/Release/Plenty.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Plenty/obj/Release/Plenty.dll.mdb
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Plenty/bin/Release/Xamarin.Forms.Core.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty/Plenty/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Plenty/obj/Release/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Plenty/bin/Release/Plenty.dll.mdb
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Plenty/bin/Release/Plenty.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Plenty/obj/Release/Plenty.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Plenty/obj/Release/Plenty.dll.mdb
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Plenty/bin/Release/Xamarin.Forms.Core.dll
+/Users/mareksadowski/Projects/Xamarin_SV/Plenty copy 2/Plenty/bin/Release/Xamarin.Forms.Xaml.dll

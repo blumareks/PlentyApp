@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <ManifestDocuments />
+  <NativeLibraries />
+  <Jars>
+    <Jar>obj/Release/__library_projects__/FormsViewGroup/library_project_imports/formsviewgroup.jar</Jar>
+    <Jar>obj/Release/__library_projects__/Worklight.Android/library_project_imports/__reference__android-async-http.jar</Jar>
+    <Jar>obj/Release/__library_projects__/Worklight.Android/library_project_imports/__reference__guava.jar</Jar>
+    <Jar>obj/Release/__library_projects__/Worklight.Android/library_project_imports/__reference__jackson-core-asl.jar</Jar>
+    <Jar>obj/Release/__library_projects__/Worklight.Android/library_project_imports/__reference__jackson-mapper-asl.jar</Jar>
+    <Jar>obj/Release/__library_projects__/Worklight.Android/library_project_imports/__reference__org.apache.http.legacy.jar</Jar>
+    <Jar>obj/Release/__library_projects__/Worklight.Android/library_project_imports/__reference__sqlcipher.jar</Jar>
+    <Jar>obj/Release/__library_projects__/Worklight.Android/library_project_imports/uicandroid.jar</Jar>
+    <Jar>obj/Release/__library_projects__/Worklight.Android/library_project_imports/worklight-android.jar</Jar>
+  </Jars>
+</Paths>
