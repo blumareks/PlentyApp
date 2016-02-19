@@ -13,3 +13,10 @@
 /Users/mareksadowski/Projects/Xamarin_SV/Plenty/Plenty/obj/Debug/Plenty.dll.mdb
 /Users/mareksadowski/Projects/Xamarin_SV/Plenty/Plenty/bin/Debug/Xamarin.Forms.Core.dll
 /Users/mareksadowski/Projects/Xamarin_SV/Plenty/Plenty/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/mareksadowski/src/github/blumareks/PlentyApp/Plenty/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/mareksadowski/src/github/blumareks/PlentyApp/Plenty/bin/Debug/Plenty.dll.mdb
+/Users/mareksadowski/src/github/blumareks/PlentyApp/Plenty/bin/Debug/Plenty.dll
+/Users/mareksadowski/src/github/blumareks/PlentyApp/Plenty/obj/Debug/Plenty.dll
+/Users/mareksadowski/src/github/blumareks/PlentyApp/Plenty/obj/Debug/Plenty.dll.mdb
+/Users/mareksadowski/src/github/blumareks/PlentyApp/Plenty/bin/Debug/Xamarin.Forms.Core.dll
+/Users/mareksadowski/src/github/blumareks/PlentyApp/Plenty/bin/Debug/Xamarin.Forms.Xaml.dll

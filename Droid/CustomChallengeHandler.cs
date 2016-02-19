@@ -58,10 +58,13 @@ namespace Plenty.Droid
 
 		public override void HandleChallenge(WorklightResponse challenge)
 		{
+			LoginModule.LoginPage loginPage=new LoginModule.LoginPage(); 
+
 			Console.WriteLine ("We were challenged.. so we are handling it");
 			Dictionary<String,String > parms = new Dictionary<String, String> (); 
 			parms.Add ("j_username", "admin");
-			parms.Add ("j_password", "admin"); 
+			parms.Add ("j_password", loginPage.plentyID.Text); //"admin"); 
+			Console.WriteLine (loginPage.plentyID.Text);
 			LoginFormParameters = new LoginFormInfo ("j_security_check", parms, null, 30000, "post");
 			shouldSubmitLoginForm = true;
 

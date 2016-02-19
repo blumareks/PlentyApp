@@ -33,19 +33,21 @@ namespace Plenty.Droid
 		public static IWorklightClient mfpClient = null;
 		WorklightLogger logger = null;
 		public bool isInitialCall = true;
-		private Int32 plentyID=Convert.ToInt32(LoginModule.LoginPage.plentyID.Text ?? "0");
-
-	
+		//private Int32 plentyID=Convert.ToInt32(LoginModule.LoginPage.plentyID.Text ?? "0");
+		private String plentyID= "test"; //LoginModule.LoginPage.plentyID.Text; 
+		
 
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
 			//initializing MobileFirst Foundation 
-			setOffers ();
 
+			//setOffers ();
 			global::Xamarin.Forms.Forms.Init (this, bundle);
 
 			LoadApplication (new App ());
+
+			setOffers ();
 		}
 	
 

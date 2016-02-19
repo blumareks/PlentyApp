@@ -6,7 +6,13 @@ namespace LoginModule
 {
 	public class LoginPage : ContentPage
 	{
-		public static Entry plentyID; //, password;
+		public Entry plentyID; //, password;
+
+		public LoginPage ()
+		{
+			
+		}
+
 		public LoginPage (ILoginManager ilm)
 		{
 			var button = new Button { Text = "Signup" };
