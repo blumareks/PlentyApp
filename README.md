@@ -39,7 +39,7 @@ FAQ:
 Some typical errors:
 - the plenty app can't connect to the MFP back-end: please restart the environment
 - the plenty app can't connect to the StrongLoop back-end: please recreate the API (revisit step 6, or disable security protection protection - an "attention" suggestion of the step 6)
-- app can't connect - manually remove the app from the environment
+- the app (on the device - both real and emulated) can't connect - manually remove the app from the environment
 
 The updated file with pictures: https://ibm.box.com/s/woku104wfvpoxoe8urj4at6sbg4yln74
 
