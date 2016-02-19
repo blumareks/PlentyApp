@@ -33,6 +33,7 @@ namespace Plenty.Droid
 		public static IWorklightClient mfpClient = null;
 		WorklightLogger logger = null;
 		public bool isInitialCall = true;
+		private Int32 plentyID=Convert.ToInt32(LoginModule.LoginPage.plentyID.Text ?? "0");
 
 	
 
